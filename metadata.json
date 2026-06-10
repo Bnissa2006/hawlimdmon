@@ -1,0 +1,6 @@
+{
+  "name": "Hawli Madmon (حولي مضمون)",
+  "description": "نظام التداول الثلاثي الآمن للمواشي والأغنام 🐏 - Secure Tripartite Livestock Escrow System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
